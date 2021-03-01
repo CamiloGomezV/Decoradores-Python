@@ -5,14 +5,3 @@ Se necesita la implementacion de un software que facilite el conteo de puntos du
 
 ## Solucion
 Se plantea una funcion inicial la cual se encarga de sumar los puntos que marca cada competidor de acuerdo al lugar del cuerpo donde se marco el punto (Cabeza o parte media). Se implementa un decorador que, si se recibe una lista con la calificacion de los jueces respecto a una tecnica (una lista de booleanos) se rectifica si en esta lista hay por lo menos 2 valores verdaderos, de lo contrario se notificara que el punto fue invalido.
-
-## Clasificacion de patrones
-
-### Factory: 
-Patron creacional
-
-### Singleton:
-Patron creacional
-
-### Decorator:
-Patron estructural
